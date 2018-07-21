@@ -3,6 +3,10 @@
 
 Vaccine is an early software threat detection system inspired by the adaptive immune system and plant communication. It is designed to work in concert with existing antivirus software. Vaccine is a first line of defense -- it senses new threats as they present themselves in the wild, and provides the information needed to quickly "vaccinate" antivirus software to protect against new threats before they spread.
 
+## Overview
+
+![Overview](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/vaccine.png)
+
 ## Compilation
 
 Place *.java files in a new directory, then run the command:
